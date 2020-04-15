@@ -4,5 +4,5 @@
 *.scss linguist-vendored
 *.js linguist-vendored
 *.php linguist-vendored
-application/* linguist-vendored
+../upload-job/* linguist-vendored
 CHANGELOG.md export-ignore
